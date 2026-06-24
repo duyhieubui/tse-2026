@@ -1,0 +1,13 @@
+- menu_name: "Quick Links"
+
+- name: "Paper submission"
+  url: "/authors/submission/"
+  title: "Paper submission"
+
+- name: "Technical Program"
+  url: "/program/technical/"
+  title: "Technical Program"
+
+- name: "Registration"
+  url: "/registration/"
+  title: "Conference Registration"

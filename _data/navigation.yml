@@ -1,0 +1,81 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Calls for papers
+  url: "/cfp/"
+  side: left
+
+- title: Venue & Hotels
+  url: "/venue/"
+  side: left
+
+# - title: Contacts
+#   url: "/contact/"
+#   side: left
+
+- title: Committees
+  url: "/committees/"
+  side: left
+  dropdown:
+  - title: "Technical Program Commitee"
+    url: "/tpc/"
+
+- title: "Authors"
+  url: "/authors/"
+  side: left
+  dropdown:
+  - title: "Dates & Deadlines"
+    url: "/authors/dates/"
+  - title: "Author Information"
+    url: "/authors/info/"
+  - title: "Paper submission"
+    url: "/authors/submission/"
+  - title: "PDF Express"
+    url: "/authors/pdfexpress/"
+  # - title: "Speaker Information"
+  #   url: "/authors/speaker/"
+
+- title: "Program"
+  url: "/program/"
+  side: left
+  dropdown:
+  - title: "Keynote Speakers"
+    url: "/program/keynote/"
+  - title: "Invited Speakers"
+    url: "/program/invited/"
+  - title: "Technical Program"
+    url: "/program/technical/"
+  - title: "Tutorials"
+    url: "/program/tutorials/"
+
+- title: Participants
+  url: "/participants/"
+  side: left
+  dropdown:
+  - title: "Registration"
+    url: "/registration/"
+  - title: "Accommodation"
+    url: "/accomodation/"
+  - title: "Visa assistant"
+    url: "/visa/"
+  - title: "Tour Information"
+    url: "/tourinfo/"
+- title: Sponsors
+  url: "/sponsors/"
+  side: left
+
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
